@@ -27,7 +27,7 @@ O repositório contém três diretórios principais:
 
 ## Imagens do Projeto
 <p align="center">
-  <img src="imgs/print1.png" alt="Tela 1" width="400"/>
+  <img src="imgs/print1.png" alt="Tela 1" width="800"/>
   <img src="imgs/print2.png" alt="Tela 2" width="400"/>
 </p>
 
